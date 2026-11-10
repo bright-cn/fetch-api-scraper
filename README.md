@@ -369,12 +369,12 @@ npx -p @brightdata/cli bdata pipelines run gd_m6gjtfmeh43we6cqc collect_by_url "
 
 ## Node.js URL 转 Markdown
 
-Node.js 也提供了相同的 URL 转 Markdown 爬虫工具：[brightdata/fetch-api-scraper-node](https://github.com/brightdata/fetch-api-scraper-node)。
+Node.js 也提供了相同的 URL 转 Markdown 爬虫工具：[bright-cn/fetch-api-scraper-node](https://github.com/bright-cn/fetch-api-scraper-node)。
 
 ## Bright Data 的更多开源爬虫工具
 
 其他以相同方式构建并包含实时验证示例的 Python 抓取工具：
 
-- [Python ChatGPT 爬虫工具](https://github.com/brightdata/chatgpt-scraper)
+- [Python ChatGPT 爬虫工具](https://github.com/bright-cn/chatgpt-scraper)
 - [Python Amazon 抓取工具](https://github.com/bright-cn/amazon-scraper-python)
 - [Python LinkedIn 爬虫](https://github.com/bright-cn/linkedin-scraper-python)
